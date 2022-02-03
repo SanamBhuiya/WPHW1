@@ -1,0 +1,101 @@
+body {
+    background-image: url("background.jpg");
+    background-color: #dadada;
+    font-family: sans-serif;
+    text-align: center;
+   }
+span{ 
+    color: red; 
+    font-weight: bold; 
+}  
+.header {
+    color: #000000;
+    padding: 50px;
+    text-align: center;
+    font-size: 150%;
+}
+.table {
+    width: 83%;
+  }
+  th, td {
+    padding: 0.70rem;
+    text-align: center;
+    border: 0;
+  }
+  tbody tr:nth-child(odd) {
+    background: #eee;
+  }
+.headshot {
+    text-align: center;
+        align-content: center;
+        border-radius: 50%;
+}
+#assignment2 {
+    text-align: center;
+    background-color: #ffffff;
+    color: #ffffff;
+}
+#listheader {
+    color: #000000;
+}
+.leftmenubar {
+    border: 1;
+    width: 80%;
+    align-content: center;
+}
+.leftmenubar a:hover {
+    color: #ffffff;
+    background-color: #7e7b7b;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+.topnav a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+div.list {
+    width:500px;
+    margin: 0 auto;
+    color: #000000;
+    color: #000000;
+    background-color: rgb(207, 196, 196)
+}
+.hobbielist {
+    width:500px;
+    margin: 0 auto;
+    color: #000000;
+    background-color: rgb(207, 196, 196)
+}
+.hobbielist a:hover {
+    color: #000000;
+    background-color: #7e7b7b;
+}
+.thinglist {
+    width:500px;
+    margin: 0 auto;
+    color: #000000;
+    color: #000000;
+    background-color: rgb(207, 196, 196)
+}
+.thinglist a:hover {
+    color: #000000;
+    background-color: #7e7b7b;
+}
+.favoritequote 
+{   width:500px;
+    margin: 0 auto;
+    color: #000000;
+    text-align: center;
+    color: #000000;
+    background-color: rgb(207, 196, 196)
+}
